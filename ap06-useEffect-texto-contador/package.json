@@ -1,5 +1,5 @@
 {
-  "name": "ap05-estado-estacao-climatica",
+  "name": "ap06-useeffect-texto-contador",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^7.2.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
